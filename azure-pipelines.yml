@@ -1,4 +1,7 @@
 # Maven package Java project Web App to Linux on Azure
+- task: MavenAuthenticate@0
+  inputs:
+    artifactsFeeds: 'ncsuee2017'
 - task: Maven@3
   inputs:
     mavenPomFile: 'pom.xml'
