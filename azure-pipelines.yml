@@ -12,7 +12,7 @@ variables:
   azureSubscription: '99937e68-5c26-4142-807c-08ddfa12b156'
   
   # Web app name
-  webAppName: 'java-spring-boot'
+  webAppName: 'java-spring-boot-irv'
 
   # Environment name
   environmentName: 'development'
