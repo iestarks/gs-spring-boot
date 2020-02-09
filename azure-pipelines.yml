@@ -15,7 +15,7 @@ variables:
   webAppName: 'java-spring-boot'
 
   # Environment name
-  environmentName: 'prod'
+  environmentName: 'development'
   
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
